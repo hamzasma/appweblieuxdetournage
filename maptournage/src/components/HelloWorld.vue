@@ -167,7 +167,7 @@ export default {
       let ths = this;
       this.arrondissement = "Selectionnez un arrondissement sur la carte";
       const loader = new Loader({
-        apiKey: "AIzaSyCX8CkYWwV3YJLPXlAI2-SBi_YAolGLjSA",
+        apiKey: "use your api key",
         version: "weekly",
         libraries: ["places"],
       });
